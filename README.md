@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently looking for work as a junior front end developer
-- 🌱 I’m currently learning javascript , python , react , angular and more
+- 🔭 I’m currently looking for work as a junior frontend developer
+- 🌱 I’m currently working with html, css, javascript , python , react, django and more
 - 👯 I’m looking to collaborate on web development
 - 🤔 I’m looking for help with projects
 - 💬 Ask me about ...
